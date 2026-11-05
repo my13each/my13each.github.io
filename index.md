@@ -21,6 +21,13 @@ No internet permission — notification content never leaves the device.
 
 - [Privacy policy](./hushhours/) (English · 日本語 · 한국어)
 
+### Battery Charm
+
+Decorates the status bar battery icon with jewelry-style charms.
+No account, no analytics — the Accessibility API is used only to find where the battery icon is.
+
+- [Privacy policy](./batterycharm/) (English · 日本語 · 한국어)
+
 ### Edge Maestro
 
 One-handed control for your phone through edge gestures.
